@@ -1,0 +1,226 @@
+.home {
+	left: 90px;
+    top: 20px;
+    position: absolute;
+    width: 33px;
+    line-height: 20px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 11px;
+}
+.discovery {
+	left: 162px;
+    top: 20px;
+    position: absolute;
+    width: 64px;
+    line-height: 20px;
+    margin-top: -4.5px;
+    text-align: left;
+    opacity: 50%;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 11px;
+}
+.photos {
+	left: 231px;
+    top: 20px;
+    position: absolute;
+    width: 46px;
+    line-height: 20px;
+    margin-top: -4.5px;
+    text-align: left;
+    opacity: 50%;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 11px;
+}
+.contact {
+	left: 316px;
+    top: 20px;
+    position: absolute;
+    width: 53px;
+    line-height: 20px;
+    margin-top: -4.5px;
+    text-align: left;
+    opacity: 50%;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 11px;
+}
+.text1 {
+	position: relative;
+	width: 1140px;
+	height: 350px;
+	left: 140px;
+	top: 75px;
+}
+.header1 {
+	position: absolute;
+    width: 1035px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    line-height: 20px;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 24px;
+}
+.marcxena-foto {
+    position: absolute;
+	width: 360px;
+	height: 180px;
+	left: 140px;
+	top: 135px;
+}
+.marcxena-p {
+    left: 280px;
+    top: 381px;
+    position: absolute;
+    width: 280px;
+    height: 38px;
+    line-height: 23px;
+    margin-top: -5px;
+    color: #A6ADB4;
+    font-family: Acumin Pro;
+    font-size: 13px;
+}
+.marcxena-inside {
+    left: 180px;
+    top: 163px;
+    position: absolute;
+    width: 281px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -2px;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+}
+.marcxena-cube {
+    background-color: #fff;
+	position: absolute;
+	width: 360px;
+	height: 180px;
+	left: 140px;
+	top: 305px;
+}
+.shuashi-foto {
+    position: absolute;
+	width: 360px;
+	height: 180px;
+	left: 540px;
+	top: 135px;
+}
+.shuashi-p {
+    position: absolute;
+	width: 360px;
+	height: 180px;
+	left: 540px;
+	top: 135px;
+}
+.shuashi-inside {
+    left: 580px;
+    top: 163px;
+    position: absolute;
+    width: 281px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -2px;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+
+}
+.shuashi-cube {
+    background-color: #fff;
+	position: absolute;
+	width: 360px;
+	height: 180px;
+	left: 540px;
+	top: 305px;
+}
+.marjvena-foto {
+    background-color: #fff;
+	position: absolute;
+	width: 360px;
+	height: 180px;
+	left: 540px;
+	top: 305px;
+
+}
+.marjvena-p {
+    left: 980px;
+    top: 381px;
+    position: absolute;
+    width: 280px;
+    height: 38px;
+    line-height: 23px;
+    margin-top: -5px;
+    color: #A6ADB4;
+    font-family: Acumin Pro;
+    font-size: 13px;
+}
+.marjvena-inside {
+    left: 980px;
+    top: 163px;
+    position: absolute;
+    width: 281px;
+    height: 16px;
+    line-height: 20px;
+    margin-top: -2px;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+}
+.marjvena-cube {
+    background-color: #fff;
+	position: absolute;
+	width: 360px;
+	height: 180px;
+	left: 940px;
+	top: 305px;
+}
+.xid {
+    position: absolute;
+    width: 760px;
+    height: 430px;
+    left: 140px;
+    top: 603px;
+
+}
+.tye1 {
+    position: absolute;
+    width: 760px;
+    height: 430px;
+    left: 140px;
+    top: 1073px;
+
+}
+.spilo1 {
+    position: absolute;
+    width: 360px;
+    height: 210px;
+    left: 940px;
+    top: 603px;
+
+}
+.tutiyushi1 {
+    position: absolute;
+    width: 360px;
+    height: 210px;
+    left: 940px;
+    top: 915px;
+}
+
+}
+.gza1 {
+    width: 360px;
+    height: 210px;
+    left: 940px;
+    top: 1227px;
+}
